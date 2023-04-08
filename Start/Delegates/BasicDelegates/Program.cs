@@ -3,7 +3,7 @@
 namespace BasicDelegates
 {
     // TODO: declare the delegate type
-
+    public delegate string MeharDelegate(int arg1, int arg2);
 
     class MyClass
     {
